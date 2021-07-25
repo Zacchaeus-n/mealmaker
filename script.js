@@ -61,7 +61,7 @@ const menu = {
 
     return `Your meal is ${appetizer.name}, ${main.name} and ${
       dessert.name
-    }. The price is $${totalPrice.toFixed(2)}.`;
+    }. The price is GHS${totalPrice.toFixed(2)}.`;
   },
 };
 
